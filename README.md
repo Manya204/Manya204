@@ -13,7 +13,6 @@
 - 📫 Reach me at: **manyamalhotra204@gmail.com**
 - ⚡ Fun Fact: I enjoy debugging more than coding sometimes 😄
 
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -36,17 +35,15 @@
 
 ## 📊 GitHub Stats
 
-![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manya204&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manya204&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manya204&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Manya204&show_icons=true&theme=tokyonight&count_private=true" height="150px"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Manya204&theme=tokyonight&hide_border=false" height="150px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manya204&layout=compact&theme=tokyonight" height="150px"/>
 
 ---
 
-## 🐍 Contribution Snake (Just for fun!)
+## 🧑‍💻 Live Coding Vibes
 
-![snake gif](https://github.com/Manya204/Manya204/blob/output/github-contribution-grid-snake.svg)
+![Coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 ---
 
@@ -58,6 +55,6 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-malhotra/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Manya204)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-malhotra-73020b22a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Manya204)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/manya204/)
