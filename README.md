@@ -1,3 +1,7 @@
+
+
+![Coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+---
 # 👋 Hi, I'm Manya Malhotra
 
 🚀 Tech Enthusiast | 💻 Problem Solver | 🔧 Full Stack Developer in Training  
@@ -36,14 +40,7 @@
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Manya204&show_icons=true&theme=tokyonight&count_private=true" height="150px"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Manya204&theme=tokyonight&hide_border=false" height="150px"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manya204&layout=compact&theme=tokyonight" height="150px"/>
-
----
-
-## 🧑‍💻 Live Coding Vibes
-
-![Coding](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 ---
 
